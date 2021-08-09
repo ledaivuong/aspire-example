@@ -1,0 +1,23 @@
+[
+	{
+		"id": "customer1",
+		"data": 
+			{
+				"fullName":"LeDaiVuong",
+				"email": "ledaivuongabcxyz@gmail.com",
+				"phone": "91234512",
+				"hearAbout": "Google"
+			}
+	},
+	{
+		"id": "customer2",
+		"data": 
+			{
+				"fullName":"gvnbvbv",
+				"email": "vnbvnvnv@gmail.com",
+				"phone": "354575476",
+				"hearAbout": "Google"
+			}
+	}
+
+]
